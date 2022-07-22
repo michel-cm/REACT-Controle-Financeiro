@@ -6,6 +6,9 @@
 - TypeScript
 - React-Hooks
 
+## Clonar o projeto
+- $ git clone https://github.com/michel-cm/REACT-TS-Controle-Financeiro.git
+
 ## Instalar dependências
 - npm install
 
